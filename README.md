@@ -47,9 +47,12 @@ Processando transação via JSON: {"amount":100}
 
 
 📖 Aprendizado
--Este projeto é ideal para estudantes e desenvolvedores que desejam:
--Entender como aplicar padrões de projeto em cenários reais.
--Criar sistemas modulares e extensíveis.
--Usar boas práticas de engenharia de software em Java.
+Este projeto é ideal para estudantes e desenvolvedores que desejam:
+
+Entender como aplicar padrões de projeto em cenários reais.
+
+Criar sistemas modulares e extensíveis.
+
+Usar boas práticas de engenharia de software em Java.
 
 
